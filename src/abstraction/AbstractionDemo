@@ -1,0 +1,24 @@
+
+    1. Abstraction nedir?
+    2. Abstraction icin Java bize hangi yontemleri sunar?
+        -
+        -
+    3.
+
+                          ------  Alistirma-1 -----
+
+    - Sekil soyut sinifi ve bu sinifi extend eden Daire ve Dikdortgen siniflari uzerinden
+      `Abstraction` kavramini tekrar hatirlayalim...
+
+        - Abstract class`in degiskenleri olur mu?
+        - Abstract class`in constructor u olur mu?
+        - Abstract class`ta abstract olmayan method olabilir mi?
+
+    - Abstract sinifi baska bir abstract sinif extend edebilir mi?
+    - Abstract methodlar nerede implement edilmelidir?
+
+
+
+
+
+
