@@ -1,4 +1,4 @@
-package abstraction;
+package abstraction.abstract_class;
 
 public abstract class Shape {
 

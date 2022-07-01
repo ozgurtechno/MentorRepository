@@ -1,4 +1,4 @@
-package abstraction;
+package abstraction.abstract_class;
 
 public class Rectangle extends Shape{
 
