@@ -10,6 +10,7 @@ public class AbstractionTest {
 
         System.out.println(s1);
         System.out.println(s2);
+        System.out.println("new change");
     }
 
 
