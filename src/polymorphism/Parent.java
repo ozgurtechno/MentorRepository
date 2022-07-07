@@ -10,6 +10,7 @@ public class Parent {
 
 class Child1 extends Parent {
     //Super Class Method Overrided
+    @Override
     void methodOfSuperClass() {
         System.out.println("From Child1 Class");
     }
@@ -21,6 +22,8 @@ class Child1 extends Parent {
 
 class Child2 extends Parent {
     //Super Class Method Overrided
+
+    @Override
     void methodOfSuperClass() {
         System.out.println("From Child2 Class");
     }
