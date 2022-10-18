@@ -9,26 +9,26 @@ public class Parent {
 }
 
 class Child1 extends Parent {
-    //Super Class Method Overrided
+
     @Override
     void methodOfSuperClass() {
         System.out.println("From Child1 Class");
     }
 
-    void methodOfChild1Class(){
+    void child_1_Method(){
         System.out.println("This method belongs to Child Class");
     }
 }
 
 class Child2 extends Parent {
-    //Super Class Method Overrided
+
 
     @Override
     void methodOfSuperClass() {
         System.out.println("From Child2 Class");
     }
 
-    void methodOfChild2Class(){
+    void child_2_Method(){
         System.out.println("This method belongs to Child Class");
     }
 }
