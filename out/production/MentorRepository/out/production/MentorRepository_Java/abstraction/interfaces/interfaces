@@ -1,0 +1,19 @@
+
+            Abstraction
+   1. Abstract Classes
+   2. Interfaces
+
+   Abstract Class ile Interface ler arasindaki FARK nedir? Hangi Durumda kullaniriz?
+   - Is-A
+   - Can-Do
+
+   Interface lerde
+
+        - private, default, protected, final degisken (field) olabilir mi?
+        - STATIC field veya metod olabilir mi?
+        - Constructor olabilir mi?
+        - Abstract method olabilir mi?
+
+   Java'da Multiple Inheritance nasil elde edilir?
+
+
